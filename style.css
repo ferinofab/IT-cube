@@ -79,6 +79,10 @@ ul li{
     box-shadow: 0px 1px 3px .1px rgb(56, 55, 55);
 }
 
+.btn button:hover{
+    cursor:pointer;
+}
+
 .second_item{
     display: flex;
    justify-content: center; 
